@@ -1,0 +1,12 @@
+h1{
+    color: red;
+    ;
+}
+
+p{
+    color: white;
+    background-color: crimson;
+    padding: 15px;
+    border: 10px solid blue;
+    margin: 50px;
+}
